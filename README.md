@@ -1,3 +1,6 @@
+Code is in PA1.rmd !!!
+Pictures are a bit deeper in figures folder, hnitr just works in this way on linux
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
